@@ -1,5 +1,5 @@
 # DataCleaning
 ## Tackle Null values
--> Drop Particular entry\n
--> Drop entire Attribute\n
+-> Drop Particular entry<br>
+-> Drop entire Attribute<br>
 -> Fill with Zero , Mean , Median etc.
